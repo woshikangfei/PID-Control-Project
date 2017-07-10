@@ -7,8 +7,6 @@ Self-Driving Car
 
 ## Reflection
 
-I used  960x720   screen solution, with a graphic quality of fastest in macOS Sierra Version 0.12.3  Macbook Pro.
-
 Here is the effect of PID controller influenced by 3 parameters(P, I, D)
 
 **P (proportional control)**
@@ -36,7 +34,7 @@ After several test, increasing and decresing constants and testing how each of t
 * Ki = 0.001
 * Kd = 1.0
 
-I have found that these generates a smoother driving in the simulator. There is a video in the assets folder.
+I have found that these generates a smoother driving in the simulator. 
 
 
 ## Dependencies
